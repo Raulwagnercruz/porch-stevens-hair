@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>PORCHIA STEVENS HAIR</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>PORCHIA STEVENS HAIR</h1>
+    <p>Luxury Hair Extensions & Care Products</p>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Porchia Stevens Hair offers premium quality hair extensions, wigs, and natural care products that empower confidence and beauty in every customer.</p>
+  </section>
+
+  <section id="products">
+    <h2>Our Products</h2>
+    <ul>
+      <li><strong>Brazilian Body Wave</strong> – ZAR2000</li>
+      <li><strong>Lace Front Wig</strong> – ZAR1500</li>
+      <li><strong>Hair Growth Oil</strong> – ZAR1000</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email us at <a href="mailto:info@porchiastevenshair.com">info@porchiastevenshair.com</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Porchia Stevens Hair. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff7f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background: #ffb6c1;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: #d63384;
+}
+
+ul {
+  list-style-type: square;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #eee;
+  font-size: 0.9rem;
+}
